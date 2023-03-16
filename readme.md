@@ -1,2 +1,2 @@
 # Linkedin Klonlama Çalışması
-![Çalışma](/readme.jpg)
+! [calisma](/readme.jpg)
